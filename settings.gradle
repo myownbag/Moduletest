@@ -1,0 +1,2 @@
+include ':app', ':slidebutton'
+rootProject.name='Moduletest'
